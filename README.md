@@ -1,1 +1,6 @@
-# DanTheDev-Blog
+# DanTheDev Blog
+
+## Site Information
+
+Powered by Jekyll \
+Statically generated website
